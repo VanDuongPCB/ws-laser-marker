@@ -1,0 +1,18 @@
+[submodule "Widgets"]
+	path = Widgets
+	url = https://github.com/VanDuongPCB/library-cpp-widgets.git
+[submodule "Protector"]
+	path = Protector
+	url = https://github.com/VanDuongPCB/library-cpp-protector.git
+[submodule "Licensing"]
+	path = Licensing
+	url = https://github.com/VanDuongPCB/library-cpp-licensing.git
+[submodule "PlcDevices"]
+	path = PlcDevices
+	url = https://github.com/VanDuongPCB/library-cpp-device-plc.git
+[submodule "Apps/Laser"]
+	path = Apps/Laser
+	url = https://github.com/VanDuongPCB/app-laser-marker.git
+[submodule "build/LaserMarker/themes"]
+	path = build/LaserMarker/themes
+	url = https://github.com/VanDuongPCB/library-cpp-themes.git
